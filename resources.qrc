@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/qm_icon.png</file>
+        <file>icons/qm_mkgrid.png</file>
+        <file>icons/qm_calc.png</file>
+        <file>icons/qm_export.png</file>
+        <file>icons/qm_import.png</file>
+    </qresource>
+</RCC>
