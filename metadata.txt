@@ -1,0 +1,14 @@
+[general]
+name=Qmarxan
+qgisMinimumVersion=1.8
+description=Create grid, calculate grid values, export Marxan input layers, import results. Requires ftools
+category=Vector
+version=version 1.4.0
+author=Apropos Information Systems Inc.
+email=info@aproposinfosystems.com
+homepage=http://www.aproposinfosystems.com/products/qmarxan/
+tracker=http://hub.qgis.org/projects/qmarxan
+icon=qm_icon.png
+repository=
+changelog=
+tags=Marxan,land use planning
